@@ -4,3 +4,6 @@ Strumenti/linguaggi utilizzati: Flutter, Figma.
 
 Relazione alla pagina Notion:
 https://www.notion.so/valeriolp/Relazione-13de2719aeeb44dbaf599d2556fa95e0
+
+Codice dell'app al link:
+https://github.com/Nefesis93/ium_project.git
